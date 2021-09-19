@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Anjan</h1>
 <h3 align="center">A Frontend Being from India.</h3>
+<h4 align="center">Web Developer | Open Source Enthusiast | Blogger</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjantalatam&label=Profile%20views&color=0e75b6&style=flat" alt="anjantalatam" /> </p>
 
@@ -39,9 +40,13 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
-
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjantalatam&show_icons=true&locale=en" alt="anjantalatam" /></p>
+
+<a href="https://github.com/anjantalatam/anjantalatam">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjantalatam&show_icons=true&line_height=27&locale=en&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="anjantalatam" />
+ </a>
+<a href="https://github.com/anjantalatam/anjantalatam">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjantalatam&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+ </a>
+ 
