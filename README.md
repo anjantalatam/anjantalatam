@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjantalatam" target="blank"><img src="https://img.shields.io/twitter/follow/anjantalatam?logo=twitter&style=for-the-badge" alt="anjantalatam" /></a> </p>
 
-- ➕ I’m currently learning **Typescript**
+- ➕ I’m currently learning **Go, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjantalatam](https://github.com/anjantalatam)
 
