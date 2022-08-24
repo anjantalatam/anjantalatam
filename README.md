@@ -44,6 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Unexpected behaviour of int and float multiplication in Javascript [duplicate]](https://stackoverflow.com/questions/73443508/unexpected-behaviour-of-int-and-float-multiplication-in-javascript)
+- [Trim all values of the input by default](https://stackoverflow.com/questions/73287989/trim-all-values-of-the-input-by-default)
+- [Answer by Anjan Talatam for React - How to replace the hover color of an Ant-Design Primary button with a css variable?](https://stackoverflow.com/questions/53507437/react-how-to-replace-the-hover-color-of-an-ant-design-primary-button-with-a-cs/73222648#73222648)
+- [Answer by Anjan Talatam for how to fix `error &#39;JSX&#39; is not defined no-undef` after upgrade to typescript 4.4.2](https://stackoverflow.com/questions/69142951/how-to-fix-error-jsx-is-not-defined-no-undef-after-upgrade-to-typescript-4-4/73034870#73034870)
+- [Answer by Anjan Talatam for ESLint with TypeScript and Firebase - no-undef error](https://stackoverflow.com/questions/65054079/eslint-with-typescript-and-firebase-no-undef-error/73034837#73034837)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
