@@ -43,6 +43,10 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <a href="https://codeforces.com/profile/anjan2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anjan2002" height="30" width="40" /></a>
 </p>
 
+## ✍️ Latest Stack Overflow Activities  
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
