@@ -41,7 +41,8 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 
 ## ✍️ Latest Stack Overflow Activities
 
-<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>  
+<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
+
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
