@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Anjan Talatam for macOS nginx: [emerg] bind&lpar;&rpar; to 0.0.0.0:8080 failed &lpar;48: Address already in use&rpar;](https://stackoverflow.com/questions/69809777/macos-nginx-emerg-bind-to-0-0-0-08080-failed-48-address-already-in-use/73729203#73729203)
-- [Answer by Anjan Talatam for nginx: [emerg] bind&lpar;&rpar; to 0.0.0.0:8080 failed &lpar;48: Address already in use&rpar; on mac](https://stackoverflow.com/questions/59568777/nginx-emerg-bind-to-0-0-0-08080-failed-48-address-already-in-use-on-mac/73729174#73729174)
-- [Answer by Anjan Talatam for Mac nginx: [emerg] bind&lpar;&rpar; to 0.0.0.0:8000 failed &lpar;48: Address already in use&rpar;](https://stackoverflow.com/questions/73729080/mac-nginx-emerg-bind-to-0-0-0-08000-failed-48-address-already-in-use/73729081#73729081)
 - [Mac nginx: [emerg] bind&lpar;&rpar; to 0.0.0.0:8000 failed &lpar;48: Address already in use&rpar;](https://stackoverflow.com/questions/73729080/mac-nginx-emerg-bind-to-0-0-0-08000-failed-48-address-already-in-use)
+- [Answer by Anjan Talatam for Mac nginx: [emerg] bind&lpar;&rpar; to 0.0.0.0:8000 failed &lpar;48: Address already in use&rpar;](https://stackoverflow.com/questions/73729080/mac-nginx-emerg-bind-to-0-0-0-08000-failed-48-address-already-in-use/73729081#73729081)
 - [Answer by Anjan Talatam for Setting up go-swagger for first time](https://stackoverflow.com/questions/56413951/setting-up-go-swagger-for-first-time/73610005#73610005)
+- [Unexpected behaviour of int and float multiplication in Javascript [duplicate]](https://stackoverflow.com/questions/73443508/unexpected-behaviour-of-int-and-float-multiplication-in-javascript)
+- [Trim all values of the input by default](https://stackoverflow.com/questions/73287989/trim-all-values-of-the-input-by-default)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
