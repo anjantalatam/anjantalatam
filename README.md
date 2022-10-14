@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to apply styles to TabPane in new Antd Tabs component](https://stackoverflow.com/questions/74072185/how-to-apply-styles-to-tabpane-in-new-antd-tabs-component/74072478#74072478)
 - [Answer by Anjan Talatam for How to handle clear button in a controlled range picker - ant design](https://stackoverflow.com/questions/74050681/how-to-handle-clear-button-in-a-controlled-range-picker-ant-design/74050792#74050792)
 - [Answer by Anjan Talatam for What is the typescript type of dayjs object](https://stackoverflow.com/questions/74045201/what-is-the-typescript-type-of-dayjs-object/74045238#74045238)
 - [Answer by Anjan Talatam for How to create a collection variable from response in postman](https://stackoverflow.com/questions/74029803/how-to-create-a-collection-variable-from-response-in-postman/74031197#74031197)
 - [Answer by Anjan Talatam for How to create a collection inside a collection in postman](https://stackoverflow.com/questions/74012167/how-to-create-a-collection-inside-a-collection-in-postman/74012295#74012295)
-- [Answer by Anjan Talatam for Lodash imports entire bundle on named imports](https://stackoverflow.com/questions/73743312/lodash-imports-entire-bundle-on-named-imports/73743390#73743390)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
