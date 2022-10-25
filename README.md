@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Can&#39;t resolve &#39;@babel/helper-module-imports&#39; with Font Awesome](https://stackoverflow.com/questions/74191072/cant-resolve-babel-helper-module-imports-with-font-awesome/74192373#74192373)
 - [Answer by Anjan Talatam for The create-react-app imports restriction outside of src directory](https://stackoverflow.com/questions/44114436/the-create-react-app-imports-restriction-outside-of-src-directory/74106507#74106507)
 - [Parent prop passed as child state not updating on parent prop update](https://stackoverflow.com/questions/74072698/parent-prop-passed-as-child-state-not-updating-on-parent-prop-update)
 - [Answer by Anjan Talatam for How to apply styles to TabPane in new Antd Tabs component](https://stackoverflow.com/questions/74072185/how-to-apply-styles-to-tabpane-in-new-antd-tabs-component/74072478#74072478)
 - [Answer by Anjan Talatam for How to handle clear button in a controlled range picker - ant design](https://stackoverflow.com/questions/74050681/how-to-handle-clear-button-in-a-controlled-range-picker-ant-design/74050792#74050792)
-- [Answer by Anjan Talatam for What is the typescript type of dayjs object](https://stackoverflow.com/questions/74045201/what-is-the-typescript-type-of-dayjs-object/74045238#74045238)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
