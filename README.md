@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to use paths in tsconfig.json?](https://stackoverflow.com/questions/43281741/how-to-use-paths-in-tsconfig-json/74221737#74221737)
 - [Answer by Anjan Talatam for Prettier ask me to replace ⏎↹↹ with ·](https://stackoverflow.com/questions/67702186/prettier-ask-me-to-replace-with/74217136#74217136)
 - [Answer by Anjan Talatam for How do I fix typescript compiler errors on css files?](https://stackoverflow.com/questions/64126764/how-do-i-fix-typescript-compiler-errors-on-css-files/74208002#74208002)
 - [Answer by Anjan Talatam for expected assignment or function call: no-unused-expressions ReactJS](https://stackoverflow.com/questions/53013437/expected-assignment-or-function-call-no-unused-expressions-reactjs/74207514#74207514)
 - [Answer by Anjan Talatam for Can&#39;t resolve &#39;@babel/helper-module-imports&#39; with Font Awesome](https://stackoverflow.com/questions/74191072/cant-resolve-babel-helper-module-imports-with-font-awesome/74192373#74192373)
-- [Answer by Anjan Talatam for The create-react-app imports restriction outside of src directory](https://stackoverflow.com/questions/44114436/the-create-react-app-imports-restriction-outside-of-src-directory/74106507#74106507)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
