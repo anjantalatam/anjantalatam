@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Type &#39;typeof import&lpar;&quot;*.svg&quot;&rpar;&#39; is not assignable to type &#39;string&#39;. ts&lpar;2322&rpar;](https://stackoverflow.com/questions/74434796/type-typeof-import-svg-is-not-assignable-to-type-string-ts2322/74434907#74434907)
 - [Answer by Anjan Talatam for Property &#39;id&#39; does not exist on type &#39;EventTarget&#39;.ts&lpar;2339&rpar;](https://stackoverflow.com/questions/74348124/property-id-does-not-exist-on-type-eventtarget-ts2339/74348312#74348312)
 - [Answer by Anjan Talatam for Puppeteer wait page load after form submit](https://stackoverflow.com/questions/46948489/puppeteer-wait-page-load-after-form-submit/74333920#74333920)
 - [Answer by Anjan Talatam for How to implement check all functionality for Ant Design check box](https://stackoverflow.com/questions/74243175/how-to-implement-check-all-functionality-for-ant-design-check-box/74243537#74243537)
 - [Answer by Anjan Talatam for How to add custom dynamic theming in ant design](https://stackoverflow.com/questions/74235320/how-to-add-custom-dynamic-theming-in-ant-design/74235497#74235497)
-- [Answer by Anjan Talatam for How to use paths in tsconfig.json?](https://stackoverflow.com/questions/43281741/how-to-use-paths-in-tsconfig-json/74221737#74221737)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
