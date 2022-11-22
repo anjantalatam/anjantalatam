@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to install a specific version of antd](https://stackoverflow.com/questions/74536555/how-to-install-a-specific-version-of-antd/74536566#74536566)
 - [Answer by Anjan Talatam for Antd Select console error: `children` should be `Select.Option` or `Select.OptGroup` instead of `Option`](https://stackoverflow.com/questions/74515793/antd-select-console-error-children-should-be-select-option-or-select-optgr/74515963#74515963)
 - [Answer by Anjan Talatam for Type &#39;{}&#39; is missing the following properties from type ts&lpar;2739&rpar;](https://stackoverflow.com/questions/74509421/type-is-missing-the-following-properties-from-type-ts2739/74509498#74509498)
 - [Answer by Anjan Talatam for Typescript interface clone](https://stackoverflow.com/questions/74442231/typescript-interface-clone/74442321#74442321)
 - [Answer by Anjan Talatam for Type &#39;typeof import&lpar;&quot;*.svg&quot;&rpar;&#39; is not assignable to type &#39;string&#39;. ts&lpar;2322&rpar;](https://stackoverflow.com/questions/74434796/type-typeof-import-svg-is-not-assignable-to-type-string-ts2322/74434907#74434907)
-- [Answer by Anjan Talatam for Property &#39;id&#39; does not exist on type &#39;EventTarget&#39;.ts&lpar;2339&rpar;](https://stackoverflow.com/questions/74348124/property-id-does-not-exist-on-type-eventtarget-ts2339/74348312#74348312)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
