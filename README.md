@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Multiple types on arrow function parameters throwing ts error: ts&lpar;2322&rpar;](https://stackoverflow.com/questions/74569032/multiple-types-on-arrow-function-parameters-throwing-ts-error-ts2322)
 - [Answer by Anjan Talatam for How do I stop the RabbitMQ server on localhost](https://stackoverflow.com/questions/10608950/how-do-i-stop-the-rabbitmq-server-on-localhost/74542610#74542610)
 - [Answer by Anjan Talatam for How do I start a RabbitMQ node?](https://stackoverflow.com/questions/47242282/how-do-i-start-a-rabbitmq-node/74542568#74542568)
 - [Answer by Anjan Talatam for How to install a specific version of antd](https://stackoverflow.com/questions/74536555/how-to-install-a-specific-version-of-antd/74536566#74536566)
 - [Answer by Anjan Talatam for Antd Select console error: `children` should be `Select.Option` or `Select.OptGroup` instead of `Option`](https://stackoverflow.com/questions/74515793/antd-select-console-error-children-should-be-select-option-or-select-optgr/74515963#74515963)
-- [Answer by Anjan Talatam for Type &#39;{}&#39; is missing the following properties from type ts&lpar;2739&rpar;](https://stackoverflow.com/questions/74509421/type-is-missing-the-following-properties-from-type-ts2739/74509498#74509498)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
