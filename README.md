@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to solve Warning: React does not recognize the X prop on a DOM element](https://stackoverflow.com/questions/54468535/how-to-solve-warning-react-does-not-recognize-the-x-prop-on-a-dom-element/74734487#74734487)
 - [Answer by Anjan Talatam for React useQuery called multiple times when dropdown is opened](https://stackoverflow.com/questions/72130545/react-usequery-called-multiple-times-when-dropdown-is-opened/74733462#74733462)
 - [Answer by Anjan Talatam for how can you remove the default hover effect with MenuItem Mui class](https://stackoverflow.com/questions/74617406/how-can-you-remove-the-default-hover-effect-with-menuitem-mui-class/74618183#74618183)
 - [Answer by Anjan Talatam for How to make my letters change colors periodically?](https://stackoverflow.com/questions/74571274/how-to-make-my-letters-change-colors-periodically/74572076#74572076)
 - [Multiple types on arrow function parameters throwing ts error: ts&lpar;2322&rpar;](https://stackoverflow.com/questions/74569032/multiple-types-on-arrow-function-parameters-throwing-ts-error-ts2322)
-- [Answer by Anjan Talatam for How do I stop the RabbitMQ server on localhost](https://stackoverflow.com/questions/10608950/how-do-i-stop-the-rabbitmq-server-on-localhost/74542610#74542610)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
