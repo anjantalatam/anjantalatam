@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for All dates in Antd Datepicker are selected when value is passed](https://stackoverflow.com/questions/74984026/all-dates-in-antd-datepicker-are-selected-when-value-is-passed/74984043#74984043)
 - [Answer by Anjan Talatam for Need an element in an object of array](https://stackoverflow.com/questions/74979320/need-an-element-in-an-object-of-array/74979629#74979629)
 - [Answer by Anjan Talatam for How to draw Semi circle with css](https://stackoverflow.com/questions/74969235/how-to-draw-semi-circle-with-css/74969240#74969240)
 - [Answer by Anjan Talatam for How to solve Warning: React does not recognize the X prop on a DOM element](https://stackoverflow.com/questions/54468535/how-to-solve-warning-react-does-not-recognize-the-x-prop-on-a-dom-element/74734487#74734487)
 - [Answer by Anjan Talatam for React useQuery called multiple times when dropdown is opened](https://stackoverflow.com/questions/72130545/react-usequery-called-multiple-times-when-dropdown-is-opened/74733462#74733462)
-- [Answer by Anjan Talatam for how can you remove the default hover effect with MenuItem Mui class](https://stackoverflow.com/questions/74617406/how-can-you-remove-the-default-hover-effect-with-menuitem-mui-class/74618183#74618183)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
