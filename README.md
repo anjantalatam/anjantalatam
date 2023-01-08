@@ -44,11 +44,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [How to add two css variables and assign it to another variable](https://stackoverflow.com/questions/75049916/how-to-add-two-css-variables-and-assign-it-to-another-variable)
 - [Answer by Anjan Talatam for Half circle with CSS &lpar;border, outline only&rpar;](https://stackoverflow.com/questions/22415651/half-circle-with-css-border-outline-only/75048232#75048232)
 - [Answer by Anjan Talatam for Multiple conditions for querySelector&lpar;&rpar; - JavaScript](https://stackoverflow.com/questions/75047427/multiple-conditions-for-queryselector-javascript/75047652#75047652)
 - [Answer by Anjan Talatam for Debugging Content Scripts for Chrome Extension](https://stackoverflow.com/questions/17119385/debugging-content-scripts-for-chrome-extension/75047416#75047416)
 - [Answer by Anjan Talatam for All dates in Antd Datepicker are selected when value is passed](https://stackoverflow.com/questions/74984026/all-dates-in-antd-datepicker-are-selected-when-value-is-passed/74984043#74984043)
-- [Answer by Anjan Talatam for Need an element in an object of array](https://stackoverflow.com/questions/74979320/need-an-element-in-an-object-of-array/74979629#74979629)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
