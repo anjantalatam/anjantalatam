@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for NPM Package doesn&#39;t have Types](https://stackoverflow.com/questions/46608937/npm-package-doesnt-have-types/75420987#75420987)
 - [Answer by Anjan Talatam for How to include a Font Awesome icon in React&#39;s render&lpar;&rpar;](https://stackoverflow.com/questions/23116591/how-to-include-a-font-awesome-icon-in-reacts-render/75376573#75376573)
 - [Answer by Anjan Talatam for how to download file in react js](https://stackoverflow.com/questions/50694881/how-to-download-file-in-react-js/75344285#75344285)
 - [How to add two css variables and assign it to another variable [duplicate]](https://stackoverflow.com/questions/75049916/how-to-add-two-css-variables-and-assign-it-to-another-variable)
 - [Answer by Anjan Talatam for Half circle with CSS &lpar;border, outline only&rpar;](https://stackoverflow.com/questions/22415651/half-circle-with-css-border-outline-only/75048232#75048232)
-- [Answer by Anjan Talatam for Multiple conditions for querySelector&lpar;&rpar; - JavaScript](https://stackoverflow.com/questions/75047427/multiple-conditions-for-queryselector-javascript/75047652#75047652)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
