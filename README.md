@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for What is the logic behind the TypeScript error &quot;The operand of a &#39;delete&#39; operator must be optional&quot;?](https://stackoverflow.com/questions/63702057/what-is-the-logic-behind-the-typescript-error-the-operand-of-a-delete-operato/75434195#75434195)
 - [Answer by Anjan Talatam for NPM Package doesn&#39;t have Types](https://stackoverflow.com/questions/46608937/npm-package-doesnt-have-types/75420987#75420987)
 - [Answer by Anjan Talatam for How to include a Font Awesome icon in React&#39;s render&lpar;&rpar;](https://stackoverflow.com/questions/23116591/how-to-include-a-font-awesome-icon-in-reacts-render/75376573#75376573)
 - [Answer by Anjan Talatam for how to download file in react js](https://stackoverflow.com/questions/50694881/how-to-download-file-in-react-js/75344285#75344285)
 - [How to add two css variables and assign it to another variable [duplicate]](https://stackoverflow.com/questions/75049916/how-to-add-two-css-variables-and-assign-it-to-another-variable)
-- [Answer by Anjan Talatam for Half circle with CSS &lpar;border, outline only&rpar;](https://stackoverflow.com/questions/22415651/half-circle-with-css-border-outline-only/75048232#75048232)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
