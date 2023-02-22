@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to remove data on logout when using firebase and react query?](https://stackoverflow.com/questions/67635311/how-to-remove-data-on-logout-when-using-firebase-and-react-query/75536519#75536519)
 - [Answer by Anjan Talatam for &quot;TS2322: Type &#39;Timeout&#39; is not assignable to type &#39;number&#39;&quot; when running unit tests](https://stackoverflow.com/questions/55550096/ts2322-type-timeout-is-not-assignable-to-type-number-when-running-unit-te/75519007#75519007)
 - [Answer by Anjan Talatam for What return type should be used for setTimeout in TypeScript?](https://stackoverflow.com/questions/51040703/what-return-type-should-be-used-for-settimeout-in-typescript/75518957#75518957)
 - [Answer by Anjan Talatam for How to count the correct length of a string with emojis in javascript?](https://stackoverflow.com/questions/54369513/how-to-count-the-correct-length-of-a-string-with-emojis-in-javascript/75439487#75439487)
 - [Answer by Anjan Talatam for What is the logic behind the TypeScript error &quot;The operand of a &#39;delete&#39; operator must be optional&quot;?](https://stackoverflow.com/questions/63702057/what-is-the-logic-behind-the-typescript-error-the-operand-of-a-delete-operato/75434195#75434195)
-- [Answer by Anjan Talatam for NPM Package doesn&#39;t have Types](https://stackoverflow.com/questions/46608937/npm-package-doesnt-have-types/75420987#75420987)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
