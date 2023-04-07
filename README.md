@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Removing files - Silent failure issue](https://stackoverflow.com/questions/17149682/removing-files-silent-failure-issue/75958165#75958165)
 - [Answer by Anjan Talatam for I want to push each entry of the hiddenarray to the uiarray at a specific interval of time using javascript](https://stackoverflow.com/questions/75890749/i-want-to-push-each-entry-of-the-hiddenarray-to-the-uiarray-at-a-specific-interv/75891003#75891003)
 - [Answer by Anjan Talatam for How to change antd Table header color](https://stackoverflow.com/questions/72011001/how-to-change-antd-table-header-color/75808605#75808605)
 - [Answer by Anjan Talatam for Typescript: Cannot find namespace](https://stackoverflow.com/questions/56341127/typescript-cannot-find-namespace/75611458#75611458)
 - [Answer by Anjan Talatam for How to remove data on logout when using firebase and react query?](https://stackoverflow.com/questions/67635311/how-to-remove-data-on-logout-when-using-firebase-and-react-query/75536519#75536519)
-- [Answer by Anjan Talatam for &quot;TS2322: Type &#39;Timeout&#39; is not assignable to type &#39;number&#39;&quot; when running unit tests](https://stackoverflow.com/questions/55550096/ts2322-type-timeout-is-not-assignable-to-type-number-when-running-unit-te/75519007#75519007)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
