@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob)
+- [Answer by Anjan Talatam for What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob/75965296#75965296)
 - [Answer by Anjan Talatam for Removing files - Silent failure issue](https://stackoverflow.com/questions/17149682/removing-files-silent-failure-issue/75958165#75958165)
 - [Answer by Anjan Talatam for I want to push each entry of the hiddenarray to the uiarray at a specific interval of time using javascript](https://stackoverflow.com/questions/75890749/i-want-to-push-each-entry-of-the-hiddenarray-to-the-uiarray-at-a-specific-interv/75891003#75891003)
 - [Answer by Anjan Talatam for How to change antd Table header color](https://stackoverflow.com/questions/72011001/how-to-change-antd-table-header-color/75808605#75808605)
-- [Answer by Anjan Talatam for Typescript: Cannot find namespace](https://stackoverflow.com/questions/56341127/typescript-cannot-find-namespace/75611458#75611458)
-- [Answer by Anjan Talatam for How to remove data on logout when using firebase and react query?](https://stackoverflow.com/questions/67635311/how-to-remove-data-on-logout-when-using-firebase-and-react-query/75536519#75536519)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
