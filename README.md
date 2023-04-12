@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for How to fix a Div to top of page with CSS only](https://stackoverflow.com/questions/6786511/how-to-fix-a-div-to-top-of-page-with-css-only/75995250#75995250)
 - [Answer by Anjan Talatam for How to position a html element under a fixed div](https://stackoverflow.com/questions/22741451/how-to-position-a-html-element-under-a-fixed-div/75995134#75995134)
 - [Answer by Anjan Talatam for Stop collapsing divs with position:fixed](https://stackoverflow.com/questions/23083207/stop-collapsing-divs-with-positionfixed/75995051#75995051)
 - [Answer by Anjan Talatam for Error in start react with vite &lpar;parse5 error code eof-in-element-that-can-contain-only-text&rpar;](https://stackoverflow.com/questions/73767112/error-in-start-react-with-vite-parse5-error-code-eof-in-element-that-can-contai/75965596#75965596)
 - [Answer by Anjan Talatam for What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob/75965296#75965296)
-- [What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
