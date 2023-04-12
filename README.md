@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Stop collapsing divs with position:fixed](https://stackoverflow.com/questions/23083207/stop-collapsing-divs-with-positionfixed/75995051#75995051)
 - [Answer by Anjan Talatam for Error in start react with vite &lpar;parse5 error code eof-in-element-that-can-contain-only-text&rpar;](https://stackoverflow.com/questions/73767112/error-in-start-react-with-vite-parse5-error-code-eof-in-element-that-can-contai/75965596#75965596)
 - [Answer by Anjan Talatam for What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob/75965296#75965296)
 - [What is the typescript type of Mutation list in callback function of mutation observer](https://stackoverflow.com/questions/75965295/what-is-the-typescript-type-of-mutation-list-in-callback-function-of-mutation-ob)
 - [Answer by Anjan Talatam for Removing files - Silent failure issue](https://stackoverflow.com/questions/17149682/removing-files-silent-failure-issue/75958165#75958165)
-- [Answer by Anjan Talatam for I want to push each entry of the hiddenarray to the uiarray at a specific interval of time using javascript](https://stackoverflow.com/questions/75890749/i-want-to-push-each-entry-of-the-hiddenarray-to-the-uiarray-at-a-specific-interv/75891003#75891003)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
