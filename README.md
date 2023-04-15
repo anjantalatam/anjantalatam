@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Detecting when user scrolls to bottom of div with React js](https://stackoverflow.com/questions/45585542/detecting-when-user-scrolls-to-bottom-of-div-with-react-js/76020825#76020825)
 - [Answer by Anjan Talatam for ReactJS how to render a component only when scroll down and reach it on the page?](https://stackoverflow.com/questions/53757229/reactjs-how-to-render-a-component-only-when-scroll-down-and-reach-it-on-the-page/76020795#76020795)
 - [Answer by Anjan Talatam for CSS position element &quot;fixed&quot; inside scrolling container](https://stackoverflow.com/questions/11261270/css-position-element-fixed-inside-scrolling-container/75996525#75996525)
 - [Answer by Anjan Talatam for How to fix a Div to top of page with CSS only](https://stackoverflow.com/questions/6786511/how-to-fix-a-div-to-top-of-page-with-css-only/75995250#75995250)
 - [Answer by Anjan Talatam for How to position a html element under a fixed div](https://stackoverflow.com/questions/22741451/how-to-position-a-html-element-under-a-fixed-div/75995134#75995134)
-- [Answer by Anjan Talatam for Stop collapsing divs with position:fixed](https://stackoverflow.com/questions/23083207/stop-collapsing-divs-with-positionfixed/75995051#75995051)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
