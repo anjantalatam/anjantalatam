@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Anjan Talatam for How to handle null values with lodash](https://stackoverflow.com/questions/52855532/how-to-handle-null-values-with-lodash/76194575#76194575)
+- [Answer by Anjan Talatam for How to handle null values with lodash get](https://stackoverflow.com/questions/52855532/how-to-handle-null-values-with-lodash-get/76194575#76194575)
 - [Answer by Anjan Talatam for Detecting when user scrolls to bottom of div with React js](https://stackoverflow.com/questions/45585542/detecting-when-user-scrolls-to-bottom-of-div-with-react-js/76020825#76020825)
 - [Answer by Anjan Talatam for ReactJS how to render a component only when scroll down and reach it on the page?](https://stackoverflow.com/questions/53757229/reactjs-how-to-render-a-component-only-when-scroll-down-and-reach-it-on-the-page/76020795#76020795)
 - [Answer by Anjan Talatam for CSS position element &quot;fixed&quot; inside scrolling container](https://stackoverflow.com/questions/11261270/css-position-element-fixed-inside-scrolling-container/75996525#75996525)
