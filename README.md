@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Javascript: Set Data Structure: intersect](https://stackoverflow.com/questions/31930894/javascript-set-data-structure-intersect/76449209#76449209)
 - [Answer by Anjan Talatam for How to make child div scrollable when it exceeds parent height?](https://stackoverflow.com/questions/27784727/how-to-make-child-div-scrollable-when-it-exceeds-parent-height/76325675#76325675)
 - [Answer by Anjan Talatam for How to enable only 3 months in AntD Range Picker?](https://stackoverflow.com/questions/66943618/how-to-enable-only-3-months-in-antd-range-picker/76272151#76272151)
 - [Answer by Anjan Talatam for How to handle null values with lodash get](https://stackoverflow.com/questions/52855532/how-to-handle-null-values-with-lodash-get/76194575#76194575)
 - [Answer by Anjan Talatam for Detecting when user scrolls to bottom of div with React js](https://stackoverflow.com/questions/45585542/detecting-when-user-scrolls-to-bottom-of-div-with-react-js/76020825#76020825)
-- [Answer by Anjan Talatam for ReactJS how to render a component only when scroll down and reach it on the page?](https://stackoverflow.com/questions/53757229/reactjs-how-to-render-a-component-only-when-scroll-down-and-reach-it-on-the-page/76020795#76020795)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
