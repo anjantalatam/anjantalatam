@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 
 - 👨‍💻 Doing Front-End in React and Typescript
 
-- 🤓 I’m currently learning **Go, Postgresql**
+- 🤓 I’m currently learning **BE in Node JS**
 
 - 🚀 Very excited to Learn and Grow as a Full Stack Developer
 
