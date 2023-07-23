@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for RabbitMQ, Erlang: How to &quot;make sure the erlang cookies are the same&quot;](https://stackoverflow.com/questions/9673172/rabbitmq-erlang-how-to-make-sure-the-erlang-cookies-are-the-same/76748634#76748634)
 - [Answer by Anjan Talatam for How to reset a rabbitmq node to get rid of an enabled feature flag](https://stackoverflow.com/questions/73076761/how-to-reset-a-rabbitmq-node-to-get-rid-of-an-enabled-feature-flag/76748239#76748239)
 - [Answer by Anjan Talatam for How to remove Rabbitmq so I can reinstall](https://stackoverflow.com/questions/39664283/how-to-remove-rabbitmq-so-i-can-reinstall/76724001#76724001)
 - [Answer by Anjan Talatam for Twitter api version 2 throws Client Forbidden error](https://stackoverflow.com/questions/65595139/twitter-api-version-2-throws-client-forbidden-error/76675575#76675575)
 - [Answer by Anjan Talatam for Remove query from cache without refetching react query](https://stackoverflow.com/questions/65565960/remove-query-from-cache-without-refetching-react-query/76604738#76604738)
-- [Answer by Anjan Talatam for Javascript: Set Data Structure: intersect](https://stackoverflow.com/questions/31930894/javascript-set-data-structure-intersect/76449209#76449209)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
