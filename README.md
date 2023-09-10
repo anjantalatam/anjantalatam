@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Uncaught Error: Invariant Violation: Element type is invalid: expected a string &lpar;for built-in components&rpar; or a class/function but got: object](https://stackoverflow.com/questions/34130539/uncaught-error-invariant-violation-element-type-is-invalid-expected-a-string/77076685#77076685)
 - [Answer by Anjan Talatam for Dynamically build classnames in TailwindCss](https://stackoverflow.com/questions/69687530/dynamically-build-classnames-in-tailwindcss/77076519#77076519)
 - [Answer by Anjan Talatam for Next/image component gives error &quot;missing required &quot;width&quot; property.&quot; when running it with npm run dev](https://stackoverflow.com/questions/75781160/next-image-component-gives-error-missing-required-width-property-when-runni/76971990#76971990)
 - [Answer by Anjan Talatam for RabbitMQ, Erlang: How to &quot;make sure the erlang cookies are the same&quot;](https://stackoverflow.com/questions/9673172/rabbitmq-erlang-how-to-make-sure-the-erlang-cookies-are-the-same/76748634#76748634)
 - [Answer by Anjan Talatam for How to reset a rabbitmq node to get rid of an enabled feature flag](https://stackoverflow.com/questions/73076761/how-to-reset-a-rabbitmq-node-to-get-rid-of-an-enabled-feature-flag/76748239#76748239)
-- [Answer by Anjan Talatam for How to remove Rabbitmq so I can reinstall](https://stackoverflow.com/questions/39664283/how-to-remove-rabbitmq-so-i-can-reinstall/76724001#76724001)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
