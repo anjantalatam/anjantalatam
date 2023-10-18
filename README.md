@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for ReferenceError: Intl is not defined in Node.js](https://stackoverflow.com/questions/20125560/referenceerror-intl-is-not-defined-in-node-js/77314061#77314061)
 - [Answer by Anjan Talatam for How can I draw red horizontal line in React](https://stackoverflow.com/questions/48156902/how-can-i-draw-red-horizontal-line-in-react/77152467#77152467)
 - [Answer by Anjan Talatam for Uncaught Error: Invariant Violation: Element type is invalid: expected a string &lpar;for built-in components&rpar; or a class/function but got: object](https://stackoverflow.com/questions/34130539/uncaught-error-invariant-violation-element-type-is-invalid-expected-a-string/77076685#77076685)
 - [Answer by Anjan Talatam for Dynamically build classnames in TailwindCss](https://stackoverflow.com/questions/69687530/dynamically-build-classnames-in-tailwindcss/77076519#77076519)
 - [Answer by Anjan Talatam for Next/image component gives error &quot;missing required &quot;width&quot; property.&quot; when running it with npm run dev](https://stackoverflow.com/questions/75781160/next-image-component-gives-error-missing-required-width-property-when-runni/76971990#76971990)
-- [Answer by Anjan Talatam for RabbitMQ, Erlang: How to &quot;make sure the erlang cookies are the same&quot;](https://stackoverflow.com/questions/9673172/rabbitmq-erlang-how-to-make-sure-the-erlang-cookies-are-the-same/76748634#76748634)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
