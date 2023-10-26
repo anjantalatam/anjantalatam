@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Next.js: How to access localStorage?](https://stackoverflow.com/questions/65479659/next-js-how-to-access-localstorage/77369548#77369548)
 - [Answer by Anjan Talatam for Unable to resolve path to module &#39;stream/promises&#39;](https://stackoverflow.com/questions/71003030/unable-to-resolve-path-to-module-stream-promises/77357178#77357178)
 - [Answer by Anjan Talatam for Vercel: ERROR	Error: The package &quot;esbuild-linux-64&quot; could not be found, and is needed by esbuild](https://stackoverflow.com/questions/69699122/vercel-errorerror-the-package-esbuild-linux-64-could-not-be-found-and-is-n/77336486#77336486)
 - [Answer by Anjan Talatam for ReferenceError: Intl is not defined in Node.js](https://stackoverflow.com/questions/20125560/referenceerror-intl-is-not-defined-in-node-js/77314061#77314061)
 - [Answer by Anjan Talatam for How can I draw red horizontal line in React](https://stackoverflow.com/questions/48156902/how-can-i-draw-red-horizontal-line-in-react/77152467#77152467)
-- [Answer by Anjan Talatam for Uncaught Error: Invariant Violation: Element type is invalid: expected a string &lpar;for built-in components&rpar; or a class/function but got: object](https://stackoverflow.com/questions/34130539/uncaught-error-invariant-violation-element-type-is-invalid-expected-a-string/77076685#77076685)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
