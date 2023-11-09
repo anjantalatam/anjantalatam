@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for AWS API Gateway - CORS + POST not working](https://stackoverflow.com/questions/38987256/aws-api-gateway-cors-post-not-working/77454343#77454343)
 - [Answer by Anjan Talatam for Getting &quot;TypeError: Failed to fetch&quot; when the request hasn&#39;t actually failed](https://stackoverflow.com/questions/49343024/getting-typeerror-failed-to-fetch-when-the-request-hasnt-actually-failed/77443757#77443757)
 - [Answer by Anjan Talatam for Set node version differently for specific project&lpar;folder&rpar; via NVM](https://stackoverflow.com/questions/60051990/set-node-version-differently-for-specific-projectfolder-via-nvm/77440721#77440721)
 - [Answer by Anjan Talatam for How to add a favicon to a Next.js static site?](https://stackoverflow.com/questions/56213019/how-to-add-a-favicon-to-a-next-js-static-site/77376256#77376256)
 - [Answer by Anjan Talatam for Window is not defined in Next.js React app](https://stackoverflow.com/questions/55151041/window-is-not-defined-in-next-js-react-app/77369633#77369633)
-- [Answer by Anjan Talatam for Next.js: How to access localStorage?](https://stackoverflow.com/questions/65479659/next-js-how-to-access-localstorage/77369548#77369548)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
