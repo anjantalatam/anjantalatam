@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Building our own cellRenderer with grouping functionality in ag-grid](https://stackoverflow.com/questions/48378085/building-our-own-cellrenderer-with-grouping-functionality-in-ag-grid/78750742#78750742)
 - [Answer by Anjan Talatam for Redux Toolkit useMutation hook data sharing between multiple component](https://stackoverflow.com/questions/69929940/redux-toolkit-usemutation-hook-data-sharing-between-multiple-component/78682816#78682816)
 - [Answer by Anjan Talatam for How to install specific version of maven in mac using brew command](https://stackoverflow.com/questions/37587402/how-to-install-specific-version-of-maven-in-mac-using-brew-command/77563010#77563010)
 - [Answer by Anjan Talatam for AWS API Gateway - CORS + POST not working](https://stackoverflow.com/questions/38987256/aws-api-gateway-cors-post-not-working/77454343#77454343)
 - [Answer by Anjan Talatam for Getting &quot;TypeError: Failed to fetch&quot; when the request hasn&#39;t actually failed](https://stackoverflow.com/questions/49343024/getting-typeerror-failed-to-fetch-when-the-request-hasnt-actually-failed/77443757#77443757)
-- [Answer by Anjan Talatam for Set node version differently for specific project&lpar;folder&rpar; via NVM](https://stackoverflow.com/questions/60051990/set-node-version-differently-for-specific-projectfolder-via-nvm/77440721#77440721)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
