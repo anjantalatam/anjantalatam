@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/anjantalatam?logo=github&style=for-
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anjan Talatam for Why Codemirror editor does NOT scroll horizontally with long line?](https://stackoverflow.com/questions/72768501/why-codemirror-editor-does-not-scroll-horizontally-with-long-line/79562696#79562696)
 - [Answer by Anjan Talatam for VS Code uses 100% CPU even if it is closed](https://stackoverflow.com/questions/71516186/vs-code-uses-100-cpu-even-if-it-is-closed/79491221#79491221)
 - [How to change output directory of wxt extension framework](https://stackoverflow.com/questions/79329100/how-to-change-output-directory-of-wxt-extension-framework)
 - [Answer by Anjan Talatam for How to change output directory of wxt extension framework](https://stackoverflow.com/questions/79329100/how-to-change-output-directory-of-wxt-extension-framework/79329101#79329101)
 - [Answer by Anjan Talatam for ag grid min height for autoHeight](https://stackoverflow.com/questions/61068419/ag-grid-min-height-for-autoheight/79285317#79285317)
-- [Answer by Anjan Talatam for How can I add vertical spacing between Panels of Collapse in antd?](https://stackoverflow.com/questions/73351871/how-can-i-add-vertical-spacing-between-panels-of-collapse-in-antd/78769081#78769081)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools:</h3>
